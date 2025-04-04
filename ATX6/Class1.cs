@@ -1,7 +1,9 @@
-﻿namespace ATX6
-{
-    public class Class1
-    {
+﻿using System.Runtime.InteropServices;
 
+namespace ATX6
+{
+    public class GaugeRenderer
+    {
+        
     }
 }
